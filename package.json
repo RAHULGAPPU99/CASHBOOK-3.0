@@ -1,0 +1,12 @@
+{
+  "name": "moneymap",
+  "version": "2.0.0",
+  "private": true,
+  "description": "MoneyMap: personal finance tracker",
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0",
+    "@capacitor/share": "^6.0.0"
+  }
+}

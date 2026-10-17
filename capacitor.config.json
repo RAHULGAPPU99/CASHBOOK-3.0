@@ -1,0 +1,13 @@
+{
+  "appId": "com.merahisaab.app",
+  "appName": "MoneyMap",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#EEF1F4"
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
